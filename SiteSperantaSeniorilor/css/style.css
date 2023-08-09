@@ -82,14 +82,14 @@ body{
 }
 .header .logo{
   font-family: 'Combo', cursive;
-  color: var(--secondary-color);
+  color: limegreen;
   font-size: 24px;
 }
 .header .links{
   position: relative;
 }
 .header .links:hover .icon span:nth-child(2){
-  width: 100%;
+  width: auto;
 }
 .header .links .icon{
   width: 30px;
@@ -273,8 +273,8 @@ color: var(--secondary-color);
 
 }
 .services .services-content .image img {
-  width: 260px;
-  height: 346px;
+  width:auto;
+  height: auto;
 }
 
 /* End Services*/
